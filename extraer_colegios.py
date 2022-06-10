@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Lectura de
+Codigo para la union de los correos electronicos disponibles en buscocolegio.com con el listado
+de colegios en el registro estatal. 
+Autor: Lasai Barreñada Taleb 
 """
 import urllib
 import pandas as pd
